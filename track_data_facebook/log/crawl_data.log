@@ -1,0 +1,41 @@
+2022-12-15 11:53:33,140 | ManageAccountFacebook | [INFO] | UPDATE INFORMATION FOR ALL ACCOUNT
+2022-12-15 11:55:35,227 | ManageAccountFacebook | [INFO] | UPDATE INFORMATION FOR ALL ACCOUNT
+2022-12-15 11:55:35,243 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT hieudan3123@outlook.com.vn
+2022-12-15 11:55:35,243 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT lionel_messsi_91_2000@proton.me
+2022-12-15 11:55:35,243 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT txnnxt2k@gmail.com
+2022-12-15 11:55:35,244 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT phudh@proton.me
+2022-12-15 11:55:35,244 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT thanglq110900@gmail.com
+2022-12-15 11:55:35,244 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT linhnh2608@proton.me
+2022-12-15 11:55:35,245 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT harkdead1@proton.me
+2022-12-15 11:55:57,467 | ManageAccountFacebook | [INFO] | GET TOKEN ACCESS FROM FACEBOOK WITH ACCOUNT hieudan3123@outlook.com.vn
+2022-12-15 11:55:57,513 | ManageAccountFacebook | [INFO] | GET TOKEN ACCESS FROM FACEBOOK WITH ACCOUNT harkdead1@proton.me
+2022-12-15 11:55:58,355 | ManageAccountFacebook | [INFO] | GET TOKEN ACCESS FROM FACEBOOK WITH ACCOUNT thanglq110900@gmail.com
+2022-12-15 11:56:00,067 | ManageAccountFacebook | [INFO] | GET TOKEN ACCESS FROM FACEBOOK WITH ACCOUNT phudh@proton.me
+2022-12-15 11:56:50,962 | ManageAccountFacebook | [INFO] | UPDATE INFORMATION FOR ALL ACCOUNT
+2022-12-15 11:56:51,003 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT hieudan3123@outlook.com.vn
+2022-12-15 11:56:51,003 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT lionel_messsi_91_2000@proton.me
+2022-12-15 11:56:51,003 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT txnnxt2k@gmail.com
+2022-12-15 11:56:51,004 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT phudh@proton.me
+2022-12-15 11:56:51,004 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT thanglq110900@gmail.com
+2022-12-15 11:56:51,005 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT linhnh2608@proton.me
+2022-12-15 11:56:51,006 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT harkdead1@proton.me
+2022-12-15 11:57:13,981 | ManageAccountFacebook | [INFO] | GET TOKEN ACCESS FROM FACEBOOK WITH ACCOUNT linhnh2608@proton.me
+2022-12-15 11:57:14,137 | ManageAccountFacebook | [INFO] | GET TOKEN ACCESS FROM FACEBOOK WITH ACCOUNT hieudan3123@outlook.com.vn
+2022-12-15 11:57:14,674 | ManageAccountFacebook | [INFO] | GET TOKEN ACCESS FROM FACEBOOK WITH ACCOUNT thanglq110900@gmail.com
+2022-12-15 11:58:24,860 | ManageAccountFacebook | [INFO] | GET TOKEN ACCESS FROM FACEBOOK WITH ACCOUNT phudh@proton.me
+2022-12-15 11:59:41,308 | ManageAccountFacebook | [INFO] | GET TOKEN ACCESS FROM FACEBOOK WITH ACCOUNT txnnxt2k@gmail.com
+2022-12-15 12:00:02,962 | ManageAccountFacebook | [INFO] | GET TOKEN ACCESS FROM FACEBOOK WITH ACCOUNT lionel_messsi_91_2000@proton.me
+2022-12-15 12:00:33,853 | ManageAccountFacebook | [INFO] | GET TOKEN ACCESS FROM FACEBOOK WITH ACCOUNT harkdead1@proton.me
+2022-12-15 17:46:33,131 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/006fe07c-c89e-4a92-aa95-636a766ffb2f/window
+2022-12-23 11:13:00,751 | ManageAccountFacebook | [INFO] | UPDATE INFORMATION FOR ALL ACCOUNT
+2022-12-23 11:13:00,783 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT hieudan3123@outlook.com.vn
+2022-12-23 11:13:00,783 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT lionel_messsi_91_2000@proton.me
+2022-12-23 11:13:00,783 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT txnnxt2k@gmail.com
+2022-12-23 11:13:00,784 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT phudh@proton.me
+2022-12-23 11:13:00,784 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT thanglq110900@gmail.com
+2022-12-23 11:13:00,785 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT linhnh2608@proton.me
+2022-12-23 11:13:00,785 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT harkdead1@proton.me
+2022-12-23 16:50:12,825 | ManageAccountFacebook | [INFO] | UPDATE INFORMATION FOR ALL ACCOUNT COMMENT
+2022-12-23 16:50:12,852 | ManageAccountFacebook | [INFO] | GET COOKIES FROM FACEBOOK WITH ACCOUNT harkdead1@proton.me
+2023-02-14 12:01:35,266 | ManageAccountFacebook | [INFO] | UPDATE INFORMATION FOR ALL ACCOUNT COMMENT
+2023-02-14 12:02:24,280 | ManageAccountFacebook | [INFO] | UPDATE INFORMATION FOR ALL ACCOUNT COMMENT

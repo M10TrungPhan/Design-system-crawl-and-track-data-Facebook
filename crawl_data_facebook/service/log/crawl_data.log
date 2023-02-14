@@ -1,0 +1,117 @@
+2022-12-27 09:41:01,048 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 09:41:34,596 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 09:41:46,455 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 09:44:30,910 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 09:45:21,732 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 09:50:09,986 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 09:51:18,636 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/91a5e92d-2e06-4f30-bdef-79a37cad4346/window
+2022-12-27 09:53:01,142 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 09:55:19,741 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 09:56:52,530 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 09:59:39,736 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 10:03:49,882 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 10:41:31,976 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 10:43:16,078 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 10:44:27,421 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/22d9da5b-9c9e-4957-8568-6bfd823ef7a2/window
+2022-12-27 10:44:27,431 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/9781d676-63ef-466d-bbf4-ba519accae02/window
+2022-12-27 10:45:57,012 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 11:26:16,400 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 14:23:39,347 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 14:24:37,923 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 14:28:05,546 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 14:44:36,930 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 14:48:04,838 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 15:14:31,454 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 17:00:38,577 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 17:03:15,655 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 17:42:53,428 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-27 17:43:47,943 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:07:21,776 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:10:44,919 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:11:35,679 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:12:12,355 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/1c4a7e68-28fc-4f8e-ab5e-2be5fe8536b5/source
+2022-12-28 09:12:12,355 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/0940217f-5b99-42b6-903c-fb974240e7d3/source
+2022-12-28 09:12:46,150 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:13:08,712 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:15:17,718 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:15:44,605 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:19:10,718 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:20:02,273 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:26:57,006 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:31:12,825 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:36:31,931 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:40:19,855 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 09:41:31,215 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 11:28:55,092 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 11:29:00,078 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 11:31:56,139 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 11:34:18,243 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 11:40:57,913 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 11:42:54,247 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 13:41:26,803 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 13:53:45,791 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 13:56:32,703 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 14:06:37,574 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 14:44:34,013 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/6c182b0e-5216-4efd-8c74-4d25c89dc086/element/31a1a0e1-c748-41bc-a4ba-ba684def7626/text
+2022-12-28 14:50:02,506 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 0
+2022-12-28 15:42:25,301 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 2
+2022-12-28 18:39:22,627 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 16
+2022-12-29 08:56:20,182 | urllib3.connectionpool | [WARNING] | Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2022-12-29 08:56:20,183 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/6938e7c4-99fc-45fc-aaed-36d8d0e7141b/window
+2022-12-29 09:18:26,834 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 23
+2022-12-29 09:20:20,051 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 23
+2022-12-29 09:24:08,741 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 23
+2022-12-29 09:36:17,142 | urllib3.connectionpool | [WARNING] | Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2022-12-29 09:38:03,436 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 26
+2022-12-29 09:46:57,333 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 27
+2022-12-29 09:47:05,979 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 27
+2022-12-29 09:51:27,033 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 27
+2022-12-29 09:57:26,160 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 27
+2022-12-29 09:58:03,482 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 27
+2022-12-29 10:02:38,944 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 27
+2022-12-29 10:05:43,772 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 27
+2022-12-29 10:10:17,230 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 27
+2022-12-29 10:29:29,991 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 32
+2022-12-29 10:42:10,496 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 33
+2022-12-29 10:55:32,549 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 41
+2022-12-29 10:59:24,964 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 41
+2022-12-29 10:59:34,784 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 41
+2022-12-29 11:08:05,528 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 41
+2022-12-29 11:22:39,855 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 43
+2022-12-29 11:24:24,964 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 43
+2022-12-29 11:24:58,095 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 43
+2022-12-29 11:27:08,222 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 43
+2022-12-29 11:30:38,948 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 43
+2022-12-29 12:44:02,597 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/0b11775e-43e1-4911-b2cc-9954ade08948/window
+2022-12-29 12:44:02,598 | urllib3.connectionpool | [WARNING] | Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2022-12-29 13:39:14,393 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 55
+2022-12-29 15:30:14,234 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/2366fa4e-92aa-40be-a21c-5a44871d6598/window
+2022-12-29 15:30:14,237 | urllib3.connectionpool | [WARNING] | Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2022-12-29 15:32:49,182 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 68
+2022-12-29 16:38:44,099 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 82
+2022-12-30 09:22:06,730 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 96
+2022-12-30 09:29:48,620 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 96
+2022-12-30 10:12:51,711 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 115
+2022-12-30 10:20:41,504 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 115
+2022-12-30 10:30:44,697 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 115
+2022-12-30 10:46:01,587 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 121
+2022-12-30 11:30:53,936 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 134
+2022-12-30 12:10:45,542 | urllib3.connectionpool | [WARNING] | Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2022-12-30 12:10:45,542 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/6b65be9d-5d4a-44ba-a49b-236132d96860/window
+2022-12-30 12:10:57,438 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 141
+2022-12-30 13:35:35,923 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 178
+2022-12-30 14:42:18,863 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 202
+2022-12-30 14:46:59,323 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 203
+2022-12-30 15:26:37,736 | CrawlVideoFacebookService | [INFO] | NUMBER OF POST CRAWLED: 214
+2022-12-30 15:36:45,138 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251CBB998B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e0b65c88-496d-4663-9af9-5103f7b20f8d/element/fcd21fd8-d83a-4e7c-ac8f-8a1e6070a136/text
+2022-12-30 15:36:45,769 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251C0629EE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c8826f1-2083-49e6-9174-f9a3ab9be8d7/element
+2022-12-30 15:36:49,160 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251C1FA30D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e0b65c88-496d-4663-9af9-5103f7b20f8d/element/fcd21fd8-d83a-4e7c-ac8f-8a1e6070a136/text
+2022-12-30 15:36:49,835 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251C1FA3E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c8826f1-2083-49e6-9174-f9a3ab9be8d7/element
+2022-12-30 15:36:53,252 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251C1F76490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e0b65c88-496d-4663-9af9-5103f7b20f8d/element/fcd21fd8-d83a-4e7c-ac8f-8a1e6070a136/text
+2022-12-30 15:36:53,903 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251C1F76040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c8826f1-2083-49e6-9174-f9a3ab9be8d7/element
+2022-12-30 15:37:01,448 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251C1F76AC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e0b65c88-496d-4663-9af9-5103f7b20f8d/element/bb7121d7-9069-478d-92a6-33d88b1445c9/text
+2022-12-30 15:37:03,093 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251C1F76BE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c8826f1-2083-49e6-9174-f9a3ab9be8d7/element
+2022-12-30 15:37:05,528 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251C1F76D90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e0b65c88-496d-4663-9af9-5103f7b20f8d/element/bb7121d7-9069-478d-92a6-33d88b1445c9/text
+2022-12-30 15:37:07,153 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251C1F76F10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c8826f1-2083-49e6-9174-f9a3ab9be8d7/element
+2022-12-30 15:37:09,613 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251C1F76550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e0b65c88-496d-4663-9af9-5103f7b20f8d/element/bb7121d7-9069-478d-92a6-33d88b1445c9/text
+2022-12-30 15:37:11,247 | urllib3.connectionpool | [WARNING] | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000251C1F76190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c8826f1-2083-49e6-9174-f9a3ab9be8d7/element
