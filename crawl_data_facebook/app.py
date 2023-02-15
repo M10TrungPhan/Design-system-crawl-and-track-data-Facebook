@@ -6,10 +6,10 @@ from service.manage_account_facebook import ManageAccountFacebook
 
 
 if __name__ == "__main__":
-    list_url = ["https://www.facebook.com/ttxltt", "https://www.facebook.com/groups/929563144068596",
+    list_url = ["https://www.facebook.com/groups/Grouptinhte", "https://www.facebook.com/groups/441249175921600",
+                "https://www.facebook.com/ttxltt", "https://www.facebook.com/groups/929563144068596",
                 "https://www.facebook.com/groups/phanbien/", "https://www.facebook.com/groups/2542993789352101/",
-                "https://www.facebook.com/groups/mela.com.vn/", "https://www.facebook.com/groups/1065116420221723",
-                "https://www.facebook.com/groups/441249175921600", "https://www.facebook.com/groups/Grouptinhte"]
+                "https://www.facebook.com/groups/mela.com.vn/", "https://www.facebook.com/groups/1065116420221723"]
 
     manage_account = ManageAccountFacebook()
     manage_account.update_information_for_all_account()

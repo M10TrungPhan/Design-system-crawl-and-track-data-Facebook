@@ -16,7 +16,7 @@ class CrawlFacebook(Thread):
         super(CrawlFacebook, self).__init__()
         self.config = Config()
         self.logger = logging.getLogger(self.__class__.__name__)
-        self.token_and_cookies = TokenAndCookies()
+        # self.token_and_cookies = TokenAndCookies()
         self.url = url
         self.path_save_data = self.config.path_save_data
         self.type = None

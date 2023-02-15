@@ -8,7 +8,7 @@ from config.config import Config
 
 
 def setup_selenium_firefox():
-    ser = Service(r"D:\trungphan\crawl_facebook\crawl_page_facebook\driverbrower\geckodriver.exe")
+    ser = Service(r"driverbrower\geckodriver.exe")
     firefox_options = FirefoxOptions()
     firefox_options.set_preference("media.volume_scale", "0.0")
     firefox_options.set_preference('devtools.jsonview.enabled', False)

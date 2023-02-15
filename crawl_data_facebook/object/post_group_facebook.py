@@ -677,7 +677,7 @@ class PostGroupFacebook:
             self.show_more_text()
         except Exception as e:
             # self.manage_account.update_status(self.account["user"], "active")
-            print(f"Error internal post {e} \n {self.url_post}, {self.id_post}")
+            # print(f"Error internal post {e} \n {self.url_post}, {self.id_post}")
             self.flag_driver = True
             self.flag_time_out = True
             self.account_col.update_status_account(self.account["user"], "active")
